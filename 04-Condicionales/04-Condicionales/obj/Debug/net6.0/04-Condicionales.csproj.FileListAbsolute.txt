@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\bin\Debug\net6.0\04-Condicionales.exe
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\bin\Debug\net6.0\04-Condicionales.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\bin\Debug\net6.0\04-Condicionales.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\bin\Debug\net6.0\04-Condicionales.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\bin\Debug\net6.0\04-Condicionales.pdb
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\refint\04-Condicionales.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.pdb
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\04-Condicionales.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-Condicionales\04-Condicionales\obj\Debug\net6.0\ref\04-Condicionales.dll

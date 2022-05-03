@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\bin\Debug\net6.0\02-captura_datos.exe
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\bin\Debug\net6.0\02-captura_datos.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\bin\Debug\net6.0\02-captura_datos.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\bin\Debug\net6.0\02-captura_datos.dll
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\bin\Debug\net6.0\02-captura_datos.pdb
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.dll
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\refint\02-captura_datos.dll
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.pdb
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\02-captura_datos.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\02-captura_datos\02-captura_datos\obj\Debug\net6.0\ref\02-captura_datos.dll

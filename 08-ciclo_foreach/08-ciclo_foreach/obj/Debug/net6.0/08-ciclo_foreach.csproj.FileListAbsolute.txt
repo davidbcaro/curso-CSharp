@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\bin\Debug\net6.0\08-ciclo_foreach.exe
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\bin\Debug\net6.0\08-ciclo_foreach.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\bin\Debug\net6.0\08-ciclo_foreach.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\bin\Debug\net6.0\08-ciclo_foreach.dll
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\bin\Debug\net6.0\08-ciclo_foreach.pdb
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.dll
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\refint\08-ciclo_foreach.dll
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.pdb
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\08-ciclo_foreach.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\08-ciclo_foreach\08-ciclo_foreach\obj\Debug\net6.0\ref\08-ciclo_foreach.dll

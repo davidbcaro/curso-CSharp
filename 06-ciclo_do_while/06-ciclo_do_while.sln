@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ciclo_do_while", "06-ciclo_do_while\06-ciclo_do_while.csproj", "{19A590BC-64A9-4631-88FA-9E70F76B150B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A590BC-64A9-4631-88FA-9E70F76B150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A590BC-64A9-4631-88FA-9E70F76B150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A590BC-64A9-4631-88FA-9E70F76B150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A590BC-64A9-4631-88FA-9E70F76B150B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9244E15-A49D-43FF-B026-C18BA8C463C1}
+	EndGlobalSection
+EndGlobal

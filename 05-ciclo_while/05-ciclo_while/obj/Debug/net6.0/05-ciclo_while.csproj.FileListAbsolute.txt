@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\bin\Debug\net6.0\05-ciclo_while.exe
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\bin\Debug\net6.0\05-ciclo_while.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\bin\Debug\net6.0\05-ciclo_while.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\bin\Debug\net6.0\05-ciclo_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\bin\Debug\net6.0\05-ciclo_while.pdb
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\refint\05-ciclo_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.pdb
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\05-ciclo_while.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\05-ciclo_while\05-ciclo_while\obj\Debug\net6.0\ref\05-ciclo_while.dll

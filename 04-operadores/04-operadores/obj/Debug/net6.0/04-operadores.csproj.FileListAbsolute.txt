@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\bin\Debug\net6.0\04-operadores.exe
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\bin\Debug\net6.0\04-operadores.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\bin\Debug\net6.0\04-operadores.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\bin\Debug\net6.0\04-operadores.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\bin\Debug\net6.0\04-operadores.pdb
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\refint\04-operadores.dll
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.pdb
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\04-operadores.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\04-operadores\04-operadores\obj\Debug\net6.0\ref\04-operadores.dll

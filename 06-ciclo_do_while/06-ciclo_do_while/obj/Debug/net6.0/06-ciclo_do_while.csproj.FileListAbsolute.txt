@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\bin\Debug\net6.0\06-ciclo_do_while.exe
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\bin\Debug\net6.0\06-ciclo_do_while.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\bin\Debug\net6.0\06-ciclo_do_while.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\bin\Debug\net6.0\06-ciclo_do_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\bin\Debug\net6.0\06-ciclo_do_while.pdb
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\refint\06-ciclo_do_while.dll
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.pdb
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\06-ciclo_do_while.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\06-ciclo_do_while\06-ciclo_do_while\obj\Debug\net6.0\ref\06-ciclo_do_while.dll

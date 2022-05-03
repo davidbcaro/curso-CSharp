@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\bin\Debug\net6.0\07-ciclo_for.exe
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\bin\Debug\net6.0\07-ciclo_for.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\bin\Debug\net6.0\07-ciclo_for.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\bin\Debug\net6.0\07-ciclo_for.dll
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\bin\Debug\net6.0\07-ciclo_for.pdb
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.dll
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\refint\07-ciclo_for.dll
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.pdb
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\07-ciclo_for.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\07-ciclo_for\07-ciclo_for\obj\Debug\net6.0\ref\07-ciclo_for.dll

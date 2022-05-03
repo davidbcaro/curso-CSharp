@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\bin\Debug\net6.0\01-hola_mundo.exe
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\bin\Debug\net6.0\01-hola_mundo.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\bin\Debug\net6.0\01-hola_mundo.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\bin\Debug\net6.0\01-hola_mundo.dll
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\bin\Debug\net6.0\01-hola_mundo.pdb
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.dll
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\refint\01-hola_mundo.dll
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.pdb
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\01-hola_mundo.genruntimeconfig.cache
+C:\Users\David\Documents\Courses\Curso_C#\01-hola_mundo\01-hola_mundo\obj\Debug\net6.0\ref\01-hola_mundo.dll

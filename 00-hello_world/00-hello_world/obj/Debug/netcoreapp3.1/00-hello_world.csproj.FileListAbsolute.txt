@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.exe
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.deps.json
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.runtimeconfig.json
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.runtimeconfig.dev.json
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.dll
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\bin\Debug\netcoreapp3.1\00-hello_world.pdb
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.AssemblyInfo.cs
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.dll
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.pdb
+C:\Users\David\Documents\Courses\Curso_C#\00-hello_world\00-hello_world\obj\Debug\netcoreapp3.1\00-hello_world.genruntimeconfig.cache
