@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tR7TptI0mEI6VNnoFys5muZ/EKtBciZ/Ljks81ShSg7dObKgjC8iYYQM6j2jkCWDTpJQKNMdameiwWQV9XA6KA==",
+  "dgSpecHash": "cV9W9DXlmGLmPINSDGZOpmfgndT1wMBsaY5ypeD+/NCcpu8mhbAQHVlw+dxBcC3NWiZEe5UzFm6r/9EUsCMuJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
+  "projectFilePath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

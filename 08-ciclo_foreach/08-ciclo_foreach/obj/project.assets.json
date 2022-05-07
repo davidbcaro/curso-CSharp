@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
       "projectName": "08-ciclo_foreach",
-      "projectPath": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
+      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\08-ciclo_foreach\\08-ciclo_foreach\\08-ciclo_foreach.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\08-ciclo_foreach\\08-ciclo_foreach\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\08-ciclo_foreach\\08-ciclo_foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
