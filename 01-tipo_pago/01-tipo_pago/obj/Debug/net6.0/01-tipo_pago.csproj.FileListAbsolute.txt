@@ -1,0 +1,15 @@
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\bin\Debug\net6.0\01-tipo_pago.exe
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\bin\Debug\net6.0\01-tipo_pago.deps.json
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\bin\Debug\net6.0\01-tipo_pago.runtimeconfig.json
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\bin\Debug\net6.0\01-tipo_pago.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\bin\Debug\net6.0\01-tipo_pago.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\refint\01-tipo_pago.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\01-tipo_pago.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\01-tipo_pago\01-tipo_pago\obj\Debug\net6.0\ref\01-tipo_pago.dll
