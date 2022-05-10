@@ -1,0 +1,15 @@
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\bin\Debug\net6.0\10-Clases_instancias.exe
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\bin\Debug\net6.0\10-Clases_instancias.deps.json
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\bin\Debug\net6.0\10-Clases_instancias.runtimeconfig.json
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\bin\Debug\net6.0\10-Clases_instancias.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\bin\Debug\net6.0\10-Clases_instancias.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\refint\10-Clases_instancias.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\10-Clases_instancias.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\10-Clases_instancias\10-Clases_instancias\obj\Debug\net6.0\ref\10-Clases_instancias.dll
