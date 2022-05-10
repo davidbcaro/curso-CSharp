@@ -1,0 +1,15 @@
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\bin\Debug\net6.0\03-patron_asteriscos.exe
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\bin\Debug\net6.0\03-patron_asteriscos.deps.json
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\bin\Debug\net6.0\03-patron_asteriscos.runtimeconfig.json
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\bin\Debug\net6.0\03-patron_asteriscos.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\bin\Debug\net6.0\03-patron_asteriscos.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\refint\03-patron_asteriscos.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\03-patron_asteriscos.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\03-patron_asteriscos\03-patron_asteriscos\obj\Debug\net6.0\ref\03-patron_asteriscos.dll
