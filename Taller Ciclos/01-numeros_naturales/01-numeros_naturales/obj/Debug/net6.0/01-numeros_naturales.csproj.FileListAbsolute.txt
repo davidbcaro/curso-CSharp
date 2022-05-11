@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\bin\Debug\net6.0\01-numeros_naturales.exe
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\bin\Debug\net6.0\01-numeros_naturales.deps.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\bin\Debug\net6.0\01-numeros_naturales.runtimeconfig.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\bin\Debug\net6.0\01-numeros_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\bin\Debug\net6.0\01-numeros_naturales.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.AssemblyInfo.cs
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\refint\01-numeros_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\01-numeros_naturales.genruntimeconfig.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\01-numeros_naturales\01-numeros_naturales\obj\Debug\net6.0\ref\01-numeros_naturales.dll
