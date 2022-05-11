@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\bin\Debug\net6.0\02-suma_naturales.exe
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\bin\Debug\net6.0\02-suma_naturales.deps.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\bin\Debug\net6.0\02-suma_naturales.runtimeconfig.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\bin\Debug\net6.0\02-suma_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\bin\Debug\net6.0\02-suma_naturales.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.AssemblyInfo.cs
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\refint\02-suma_naturales.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\02-suma_naturales.genruntimeconfig.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\02-suma_naturales\02-suma_naturales\obj\Debug\net6.0\ref\02-suma_naturales.dll
