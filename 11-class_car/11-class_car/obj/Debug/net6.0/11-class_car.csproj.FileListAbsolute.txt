@@ -1,0 +1,15 @@
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\bin\Debug\net6.0\11-class_car.exe
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\bin\Debug\net6.0\11-class_car.deps.json
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\bin\Debug\net6.0\11-class_car.runtimeconfig.json
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\bin\Debug\net6.0\11-class_car.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\bin\Debug\net6.0\11-class_car.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\refint\11-class_car.dll
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.pdb
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\11-class_car.genruntimeconfig.cache
+C:\Users\David\Documents\GitHub\curso-CSharp\11-class_car\11-class_car\obj\Debug\net6.0\ref\11-class_car.dll
