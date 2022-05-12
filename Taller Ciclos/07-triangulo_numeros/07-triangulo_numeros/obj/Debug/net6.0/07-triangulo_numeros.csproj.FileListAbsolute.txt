@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\bin\Debug\net6.0\07-triangulo_numeros.exe
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\bin\Debug\net6.0\07-triangulo_numeros.deps.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\bin\Debug\net6.0\07-triangulo_numeros.runtimeconfig.json
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\bin\Debug\net6.0\07-triangulo_numeros.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\bin\Debug\net6.0\07-triangulo_numeros.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.AssemblyInfo.cs
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\refint\07-triangulo_numeros.dll
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.pdb
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\07-triangulo_numeros.genruntimeconfig.cache
+C:\Users\Dev\Documents\GitHub\curso-CSharp\Taller Ciclos\07-triangulo_numeros\07-triangulo_numeros\obj\Debug\net6.0\ref\07-triangulo_numeros.dll

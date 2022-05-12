@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj": {}
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj": {
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj",
+        "projectUniqueName": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj",
         "projectName": "07-ciclo_for",
-        "projectPath": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\Courses\\Curso_C#\\07-ciclo_for\\07-ciclo_for\\obj\\",
+        "projectPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\07-ciclo_for\\07-ciclo_for\\07-ciclo_for.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\07-ciclo_for\\07-ciclo_for\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
