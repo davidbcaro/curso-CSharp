@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\David\\.nuget\\packages\\": {}
+    "C:\\Users\\Dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\11-class_car.csproj",
+      "projectUniqueName": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\11-class_car.csproj",
       "projectName": "11-class_car",
-      "projectPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\11-class_car.csproj",
-      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\obj\\",
+      "projectPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\11-class_car.csproj",
+      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\11-class_car\\11-class_car\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

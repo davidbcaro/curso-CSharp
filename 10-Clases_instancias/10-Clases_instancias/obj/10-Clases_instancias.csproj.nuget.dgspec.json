@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj": {}
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj": {
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj",
+        "projectUniqueName": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj",
         "projectName": "10-Clases_instancias",
-        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\obj\\",
+        "projectPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\10-Clases_instancias.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\10-Clases_instancias\\10-Clases_instancias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

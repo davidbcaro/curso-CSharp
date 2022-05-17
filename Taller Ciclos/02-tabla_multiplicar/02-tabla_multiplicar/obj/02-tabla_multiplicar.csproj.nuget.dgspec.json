@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj": {}
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj": {
+    "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
+        "projectUniqueName": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
         "projectName": "02-tabla_multiplicar",
-        "projectPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
+        "projectPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
         "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\obj\\",
+        "outputPath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcIXg27uo2POFkd4z6riboz+fbQTsl1DPbUbIsSKWZqu8B3nKGYdRXfUZLwU4+3xvkP96lkdNsE1+CLRw+CQ7A==",
+  "dgSpecHash": "6g7zyozF6DZVAZRXTT0D/PTlg5YjH64AXusyy52DhNTJnCE7YM2bvAWoexUeDokZROhFQrzZw4gVA/THQZavwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
+  "projectFilePath": "C:\\Users\\Dev\\Documents\\GitHub\\curso-CSharp\\Taller Ciclos\\02-tabla_multiplicar\\02-tabla_multiplicar\\02-tabla_multiplicar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

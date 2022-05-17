@@ -1,15 +1,17 @@
 ﻿// Instanciar una clase o creando un ejemplar de la clase Car
 Car MiCarro = new Car();
-Console.WriteLine(MiCarro.marca);
-Console.WriteLine(MiCarro.color);
-Console.WriteLine(MiCarro.encender());
+Console.WriteLine("Objeto Vehículo");
+Console.WriteLine($"Marca: {MiCarro.marca}");
+Console.WriteLine($"Color: {MiCarro.color}");
+Console.WriteLine($"Placa: {MiCarro.placa}");
+Console.WriteLine($"Encendido: {MiCarro.encender()}");
 
 class Car
 {
     public string marca = "Audi";
     public string color = "Blanco";
     int maxVelocidad = 200;
-    string placa = "MTR340";
+    public string placa = "MTR340";
     int modelo = 2022;
     int cilindraje = 1800;
 
@@ -18,7 +20,7 @@ class Car
         return true;
     }
 
-    public bool apagar()
+    bool apagar()
     {
         return false;
     }
