@@ -5,6 +5,7 @@ Console.WriteLine($"Marca: {MiCarro.marca}");
 Console.WriteLine($"Color: {MiCarro.color}");
 Console.WriteLine($"Placa: {MiCarro.placa}");
 Console.WriteLine($"Encendido: {MiCarro.encender()}");
+Console.WriteLine($"Apagado: {MiCarro.apagar()}");
 
 class Car
 {
@@ -20,9 +21,9 @@ class Car
         return true;
     }
 
-    bool apagar()
+    public bool apagar()
     {
-        return false;
+        return true;
     }
 }
 
